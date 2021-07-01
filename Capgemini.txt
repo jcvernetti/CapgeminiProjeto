@@ -1,0 +1,9 @@
+O projeto Alcancede Anuncios é desenvolvido em Java
+e contém quatro classes:
+-Cliente.java
+-TelaCadastro.java
+-TelaCalculadora.java
+-TelaPrincipal.java (classe main)
+
+Esse projeto foi compilado com sucesso na IDE Netbeans 12.3,
+a qual está instalada na plataforma do Windows 10.
